@@ -2,7 +2,7 @@
 
 
 
-## I'm Frontend Developer.
+## A Frontend Developer.
 
 - ⭐️ I use my skills to create stunning and function websites by manipulating the   very fabric of the web.
 - 🌱 Actively learning and pushing to be better than i was.
