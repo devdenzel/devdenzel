@@ -4,7 +4,7 @@
 
 ## A Frontend Developer.
 
-- ⭐️ I use my skills to create stunning and function websites by manipulating the   very fabric of the web.
+- ⭐️ I use my skills to create stunning and functional websites by manipulating the very fabric of the web with Tailwind CSS, Javascript.
 - 🌱 Actively learning and pushing to be better than i was.
 - 👯 Open to collaboration, adaptive and works well with others.
 
