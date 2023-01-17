@@ -1,4 +1,4 @@
-# Hi there, I'm Kasy Kluivert 👋 - aka [DenzCoder] ⭐️ 
+# Hi there, I'm Kasy Kluivert  - aka [DenzCoder] 
 
 
 
