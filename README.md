@@ -1,10 +1,10 @@
-# Hi there, I'm Kasy Kluivert  - aka [DenzCoder] 
+# Hi there, I'm Kasy Kluivert  - aka [Dev Denzel] 
 
 
 
-## A Frontend Developer.
+# A Frontend Developer.
 
-- ⭐️ I use my skills to create stunning and functional websites by manipulating the very fabric of the web with Tailwind CSS, Javascript.
+- ⭐️ I use my skills to create stunning and functional websites by manipulating the very fabric of the web with Tailwind CSS, Javascript, React.
 - 🌱 Actively learning and pushing to be better than i was.
 - 👯 Open to collaboration, adaptive and works well with others.
 
