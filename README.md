@@ -3,7 +3,7 @@
 
 
 # A Frontend Developer.
-<img src="https://drive.google.com/file/d/10UDPcHuZCMQbgRw_19PjmAYvphJKptuE/view?usp=share_link)">
+<img src="https://drive.google.com/file/d/10UDPcHuZCMQbgRw_19PjmAYvphJKptuE/view?usp=share_link">
 
 - ⭐️ I use my skills to create stunning and functional websites by manipulating the very fabric of the web using Tailwind CSS, Javascript, React.
 - 🌱 Actively learning and pushing to be better than i was.
