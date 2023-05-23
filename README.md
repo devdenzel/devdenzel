@@ -1,10 +1,10 @@
-# Hi there, I'm Kasimu Kluivert  - [Dev Denzel] 
+# Hi there, I'm Kasimu Kluivert
 
 
 
 # A Frontend Developer.
 
-- ⭐️ I use my skills to create stunning and functional websites by manipulating the very fabric of the web using Tailwind CSS, Javascript, React.
+- ⭐️ I use my skills to create stunning and functional websites by manipulating the very fabric of the web using Tailwind CSS, Javascript, React, Node JS.
 - 🌱 Actively learning and pushing to be better than i was.
 - 👯 Open to collaboration, adaptive and works well with others.
 
