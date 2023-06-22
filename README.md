@@ -2,11 +2,11 @@
 
 
 
-# A Frontend Developer.
+# A MERN Developer.
 
-- ⭐️ I use my skills to create stunning and functional websites by manipulating the very fabric of the web using Tailwind CSS, Javascript, React, Node JS.
+- ⭐️ I use my skills to create stunning and functional websites by manipulating the very fabric of the web using Tailwind CSS, Javascript, React, Node/Express.JS.
 - 🌱 Actively learning and pushing to be better than i was.
-- 👯 Open to collaboration, adaptive and works well with others.
+- 👯 Open to collaboration, adaptive and works well in a team.
 
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/kluivstar?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=kluivstar)
@@ -37,10 +37,10 @@
 <img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
 
 
-<!-- <img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;"
 
 
-<!-- [<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />][webdevplaylist]
+[<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;"][webdevplaylist]
 [<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />][webdevplaylist] -->
 
 [<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
