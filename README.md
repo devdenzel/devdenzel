@@ -4,8 +4,8 @@
 
 # A MERN Developer.
 
-- ⭐️ I use my skills to create stunning and functional websites by manipulating the very fabric of the web using Tailwind CSS, Javascript, React, Node/Express.JS.
-- 🌱 Actively learning and pushing to be better than i was.
+- ⭐️ I use my skills to create stunning and responsive websites by manipulating the very fabric of the web using Tailwind CSS, Javascript, React, Node/Express.JS.
+- 🌱 Actively learning
 - 👯 Open to collaboration, adaptive and works well in a team.
 
 
