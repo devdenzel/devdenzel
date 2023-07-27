@@ -2,7 +2,7 @@
 
 
 
-# A MERN Developer.
+# A Web Developer.
 
 - Problem solver, critical thinker. I use my skills to logically developed user interactive websites by manipulating the very fabric of the web using HTML, Tailwind CSS, Javascript, React, Node/Express.JS.
 - Actively learning
