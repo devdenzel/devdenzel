@@ -26,7 +26,7 @@
 [![website](./img/instagram-light.svg)](https://instagram.com/kluivstar#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/kluivstar#gh-dark-mode-only)
 
-### Languages,Frameworks and Tools:
+### Language, Frameworks and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
