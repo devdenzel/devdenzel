@@ -4,9 +4,9 @@
 
 # A Web Developer.
 
-- Problem solver, critical thinker. I use my skills to logically developed user interactive websites by manipulating the very fabric of the web using HTML, Tailwind CSS, Javascript, React, Node/Express.JS.
-- Actively learning
-- Open to collaboration, adaptive and works well in a team.
+- Problem solver, critical thinker. I use my skills to logically develope user interactive websites by manipulating the very fabric of the web using HTML, Tailwind CSS, Javascript, React, Node/Express.JS.
+- Actively learning.
+- I've got an impressive collaborative skill and work well with others as a team.
 
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/kluivstar?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=kluivstar)
