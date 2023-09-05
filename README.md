@@ -4,7 +4,7 @@
 
 # A Web Developer.
 
-A pProblem solver and critical thinker. I use my skills to logically develope user interactive websites by manipulating the very fabric of the web using HTML, Tailwind CSS, Javascript, React, Node/Express.JS.
+A problem solver and critical thinker. I use my skills to logically develope user interactive websites by manipulating the very fabric of the web using HTML, Tailwind CSS, Javascript, React, Node/Express.JS.
 - I'm actively learning.
 - I've got an impressive collaborative skill and work well with others as a team.
 
