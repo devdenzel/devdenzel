@@ -1,8 +1,8 @@
 # Hey! Kasimu Kluivert here, seems you've found my github profile.
-# What I do:
-# You guess right if you picked Software Developer, but theres more
+# What I do:  
+You guessed right if you picked Software Developer, but theres more
 
-A problem solver and critical thinker. I use my skills to logically develop user interactive websites by manipulating the very fabric of the web.
+I am problem solver and critical thinker. I use my skills to logically develop user interactive websites by manipulating the very fabric of the web.
 I utilize a highly efficient web programming language and its libraries/frameworks.
 - Actively learning.
 - I've got an impressive collaborative skill and work well with others as a team.
