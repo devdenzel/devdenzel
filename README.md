@@ -24,7 +24,6 @@ I know you want to, dont be shy.
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://instagram.com/kluivstar#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/kluivstar#gh-dark-mode-only)
-[![Twitter Follow](https://img.shields.io/twitter/follow/kluivstar?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=kluivstar)
 
 
 ### Language, Frameworks and Tools:
