@@ -8,7 +8,7 @@ A problem solver and critical thinker. I use my skills to logically develope use
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/kluivstar?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=kluivstar)
 
-### Connect with me:
+### Find me:
 
 [![website](./img/globe-light.svg)](https://denzcoder.netlify.app#gh-light-mode-only)
 [![website](./img/globe-dark.svg)](https://denzcoder.netlify.app#gh-dark-mode-only)
