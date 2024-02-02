@@ -8,9 +8,10 @@ I utilize a highly efficient web programming language and its libraries/framewor
 - I've got an impressive collaborative skill and work well with others as a team.
 
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/kluivstar?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=kluivstar)
 
-### Find me:
+### Find me: 
+I know you want to, dont be shy.
+[![Twitter Follow](https://img.shields.io/twitter/follow/kluivstar?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=kluivstar)
 
 [![website](./img/globe-light.svg)](https://denzcoder.netlify.app#gh-light-mode-only)
 [![website](./img/globe-dark.svg)](https://denzcoder.netlify.app#gh-dark-mode-only)
