@@ -1,6 +1,5 @@
 # Hey! 
-# Kasimu Kluivert here, 
-Seems you've found my github profile.
+# Kasimu Kluivert here, seems you've found my github profile.
 
 # What I do:  
 You guessed right if you picked Software Developer, but theres more
