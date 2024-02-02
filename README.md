@@ -1,11 +1,8 @@
-# Hi there, I'm Kasimu Kluivert
-
-
-
-# A Web Developer.
+# Hey!, Kasimu Kluivert here, welcome to my github profile.
+# I'm a Software Developer.
 
 A problem solver and critical thinker. I use my skills to logically develope user interactive websites by manipulating the very fabric of the web using HTML, Tailwind CSS, Javascript, React, Node/Express.JS.
-- I'm actively learning.
+- Actively learning.
 - I've got an impressive collaborative skill and work well with others as a team.
 
 
