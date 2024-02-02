@@ -1,4 +1,4 @@
-# Hey! Kasimu Kluivert here, Welcome to my github profile.
+# Hey! Kasimu Kluivert here, You found my github profile.
 # I'm a Software Developer.
 
 A problem solver and critical thinker. I use my skills to logically develope user interactive websites by manipulating the very fabric of the web.
