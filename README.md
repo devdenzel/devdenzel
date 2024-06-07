@@ -1,15 +1,17 @@
 # Hey! 
-# Kasimu Kluivert here, so you found my github profile huh?
-. You've might have said to yourself "He's probably a Software developer"
+# So you found my github profile huh?
+Well welcome.
+. You've probably thinking youve stumbled  unto another software developer profile"
 
 You're right 🫵 
 
-but alot goes into that and we seem to forget, as a developer I'm :
+but its much more than that you see, as a developer I'm :
 
-A problem solver and critical thinker. 
+A problem solver and critical thinker first. 
 
 "Problem solving" is one of the core reasons software development was conceived, its one big problem solving tool and i have found a rhythm to master and utilize this tool and it features for its intended purposes. I utilize a highly efficient web programming language and its libraries/frameworks to logically develop web applications that are responsive and interactive with the user.
 
+Im also:
 - Actively learning.
 - I've got an impressive collaborative skills and works well with others as a team.
 
