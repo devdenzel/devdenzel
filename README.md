@@ -1,6 +1,6 @@
 # So you found my github profile huh?
-Well welcome.
-. You've probably thinking youve stumbled  unto another software developer profile"
+Well, welcome.
+You've probably thinking youve stumbled  unto another software developer profile"
 
 You're right 🫵 
 
